@@ -1,4 +1,4 @@
-<## Introducing EventPro
+## Introducing EventPro
 
 EventPro is a comprehensive event and attendee management software widely used in the event planning industry.
 
